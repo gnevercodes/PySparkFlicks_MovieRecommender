@@ -62,30 +62,7 @@ feel free to fork, star, and remix with credit!
 
 ## 📁 Project Structure
 \'\'\' 
-PySparkFlicks_MovieRecommender/
-│
-├── code/                     # All PySpark code/scripts
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── utils.py
-│
-├── notebooks/               # Optional: Jupyter Notebooks (.ipynb)
-│   └── movie_recommender.ipynb
-│
-├── data/                    # (optional) Add sample dataset for demo/testing
-│   └── sample_ratings.csv
-│
-├── documentation/           # IEEE paper, diagrams, screenshots
-│   ├── project_report.pdf
-│   └── architecture.png
-│
-├── .github/
-│   └── workflows/
-│       └── python-package.yml
-│
-├── requirements.txt         # pip dependencies
-├── setup.py                 # optional, for making this pip installable
-├── README.md                # landing page 📄
-└── LICENSE                  # add MIT license or similar if open-source
+PySparkFlicks_MovieRecommender/ │ ├── code/ # All PySpark code/scripts │ ├── preprocessing.py │ ├── train_model.py │ └── utils.py │ ├── notebooks/ # Jupyter Notebooks (.ipynb) │ └── movie_recommender.ipynb │ ├── data/ # Sample dataset for demo/testing │ └── sample_ratings.csv │ ├── documentation/ # IEEE paper, diagrams, screenshots │ ├── project_report.pdf │ └── architecture.png │ ├── .github/
+│ └── workflows/ │ └── python-package.yml │ ├── requirements.txt # pip dependencies ├── setup.py # optional, for making this pip installable ├── README.md # landing page 📄 └── LICENSE # add MIT license or similar if open-source
 \'\'\'
 
