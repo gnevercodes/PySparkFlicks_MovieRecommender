@@ -63,7 +63,7 @@ feel free to fork, star, and remix with credit!
 ## 📁 Project Structure
 
 📦 PySparkFlicks_MovieRecommender/
-├--- 🧠 code/                  → PySpark code and scripts
+|---🧠 code/                  → PySpark code and scripts
 ├── 📒 notebooks/             → Jupyter Notebooks for exploration
 ├── 📊 data/                  → Sample Netflix dataset
 ├── 📄 documentation/         → IEEE paper, diagrams, and references
