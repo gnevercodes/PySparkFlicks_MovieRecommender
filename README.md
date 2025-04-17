@@ -61,7 +61,7 @@ Built with ❤️ by a team of graduate students as part of our coursework under
 feel free to fork, star, and remix with credit!
 
 ## 📁 Project Structure
-PySparkFlicks_MovieRecommender/
+'''PySparkFlicks_MovieRecommender/
 │
 ├── code/                     # All PySpark code/scripts
 │   ├── preprocessing.py
@@ -86,4 +86,5 @@ PySparkFlicks_MovieRecommender/
 ├── setup.py                 # optional, for making this pip installable
 ├── README.md                # landing page 📄
 └── LICENSE                  # add MIT license or similar if open-source
+'''
 
