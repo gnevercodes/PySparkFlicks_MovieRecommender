@@ -61,6 +61,15 @@ Built with ❤️ by a team of graduate students as part of our coursework under
 feel free to fork, star, and remix with credit!
 
 ## 📁 Project Structure
+📦 PySparkFlicks_MovieRecommender/
+├── 🧠 code/                  → PySpark code and scripts
+├── 📒 notebooks/             → Jupyter Notebooks for exploration
+├── 📊 data/                  → Sample Netflix dataset
+├── 📄 documentation/         → IEEE paper, diagrams, and references
+├── ⚙️ .github/workflows/     → CI/CD workflows (Python)
+├── 📦 requirements.txt       → Python dependencies
+├── 🛠️ setup.py               → Installable package setup (optional)
+├── 📘 README.md              → This very file
+└── 🧾 LICENSE                → Open-source license
 
-📦 PySparkFlicks_MovieRecommender/ ├── 🧠 code/ → PySpark code and scripts ├── 📒 notebooks/ → Jupyter Notebooks for exploration ├── 📊 data/ → Sample Netflix dataset ├── 📄 documentation/ → IEEE paper, diagrams, and references ├── ⚙️ .github/workflows/ → CI/CD workflows (Python) ├── 📦 requirements.txt → Python dependencies ├── 🛠️ setup.py → Installable package setup (optional) ├── 📘 README.md → This very file └── 🧾 LICENSE → Open-source license
 
