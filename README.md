@@ -47,8 +47,7 @@ We’ve drawn inspiration and technical strategies from key works including:
 - [Ekstrand et al., 2011](#)
 - [Ortega et al., 2016](#)
 
-_For the full IEEE-style paper, check the [`proposed_paper.pdf`](./Documentation/proposed_paper.pdf
-) in this repo._
+_For the full IEEE-style paper, check the documenation folder in this repo :) 
 
 ## 🧠 Authors & Credits
 Built with ❤️ by a team of graduate students as part of our coursework under the guidance of our incredible supervisor (see acknowledgments in paper). Shoutout to all contributors and cited researchers!
